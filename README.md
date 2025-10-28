@@ -1,4 +1,4 @@
-# Deep Neural Network Cookbook
+# A Cookbook for Deep Neural Networks
 
 *by Younginn Park*
 
