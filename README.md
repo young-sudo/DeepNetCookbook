@@ -2,7 +2,9 @@
 
 *by Younginn Park*
 
-Repository contains solutions for some selected Deep Neural Network architecture tasks using **PyTorch** and optimized for running in the Google Colab environment. The implemented solutions were a part of the Deep Neural Network course at the University of Warsaw 2024/25.
+Repository contains solutions for some selected Deep Neural Network architecture tasks using **PyTorch** and optimized for running in the Google Colab environment.
+
+The implemented solutions were a part of the Deep Neural Network course at the University of Warsaw 2024/25, where they achieved a top 10% class ranking for performance.
 
 Projects include methods, proposed in the latest publications, with a potential for improving existing models:
 1. **Proximal Backpropagation ([ProxyProp](https://arxiv.org/abs/1706.04638))** - modification for the backpropagation algorithm by taking implicit instead of explicit gradient steps to update the network parameters during neural network training.
