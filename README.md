@@ -20,7 +20,7 @@ Projects include methods, proposed in the latest publications, with a potential 
 
 <div style="margin-top: 20px; margin-bottom: 20px;">
 <details>
-  <summary><font size="4"><b>Table of Contents</b></font></summary>
+  <summary><font size="5"><b>Table of Contents</b></font></summary>
   
 1. [Proximal Backpropagation (ProxyProp)](#1-proximal-backpropagation-proxyprop)
 2. [Adversarial Training (AdvProp and SparseTopK)](#2-adversarial-training-advprop-and-sparsetopk)
