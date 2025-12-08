@@ -18,8 +18,9 @@ Projects include methods, proposed in the latest publications, with a potential 
 
 >For more details and implementation visit each subproject's Jupyter Notebook
 
+<div style="margin-top: 20px; margin-bottom: 20px;">
 <details>
-  <summary>Table of Contents</summary>
+  <summary><font size="4"><b>Table of Contents</b></font></summary>
   
 1. [Proximal Backpropagation (ProxyProp)](#1-proximal-backpropagation-proxyprop)
 2. [Adversarial Training (AdvProp and SparseTopK)](#2-adversarial-training-advprop-and-sparsetopk)
@@ -27,7 +28,7 @@ Projects include methods, proposed in the latest publications, with a potential 
 4. [Proximal Policy Optimization (PPO) and Random Network Distillation (RND)](#4-proximal-policy-optimization-ppo-and-random-network-distillation-rnd)
 
 </details>
-
+</div>
 
 # 1. **Proximal Backpropagation ([ProxyProp](https://arxiv.org/abs/1706.04638))**
 
